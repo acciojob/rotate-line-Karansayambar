@@ -4,7 +4,7 @@ body{
 	overflow:hidden;
 }
 #line{
-	color:black;
+	background-color:black;
 	width:200px;
 	height:2px;
 	position:absolute;
